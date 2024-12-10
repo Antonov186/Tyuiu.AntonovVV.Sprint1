@@ -1,0 +1,11 @@
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.exe.config
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.exe
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.pdb
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.Lib.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\bin\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.Lib.pdb
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\obj\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.csproj.AssemblyReference.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\obj\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.csproj.CoreCompileInputs.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\obj\Debug\Tyuiu.An.4203BAD0.Up2Date
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\obj\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.exe
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint1\Tyuiu.AntonovVV.Sprint1.Task1.V13\obj\Debug\Tyuiu.AntonovVV.Sprint1.Task1.V13.pdb
