@@ -10,7 +10,7 @@ namespace Tyuiu.AntonovVV.Sprint1.Task0.V29.Lib
     {
         public double Calculate()
         {
-            return 2 * 7 + 9 * 2;
+            return 2 * 9 + 7 * 2;
         }
     }
 
