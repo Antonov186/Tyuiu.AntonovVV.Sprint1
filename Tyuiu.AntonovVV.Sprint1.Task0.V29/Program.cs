@@ -7,6 +7,7 @@ using Tyuiu.AntonovVV.Sprint1.Task0.V29.Lib;
 
 namespace Tyuiu.ZamyatinDY.Sprint1.Task0.V29
 {
+
     class Program
     {
         static void Main(string[] args)
